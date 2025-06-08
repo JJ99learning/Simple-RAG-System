@@ -21,8 +21,8 @@ This is a Retrieval-Augmented Generation (RAG) system that combines document ret
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/JJ99learning/Simple-RAG-System
+cd Simple-RAG-System
 ```
 
 2. Install required packages:
